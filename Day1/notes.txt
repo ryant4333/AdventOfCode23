@@ -1,0 +1,6 @@
+raw: eightsevenvqvzlqxkbm6rqhsgqpnine7twonex
+
+Processed: 87vqvzlqxkbm6rqhsgqp97tw1x
+
+Out: 81
+
